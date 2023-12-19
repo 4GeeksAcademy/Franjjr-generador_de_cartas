@@ -8,3 +8,7 @@ body {
 .texto-mediano {
   font-size: 3rem !important;
 }
+
+.icono2 {
+  transform: rotate(180deg);
+}
