@@ -30,3 +30,5 @@ function generar() {
       ? "text-danger"
       : "text-dark";
 }
+
+// Revisado el proyecto para ver los comentarios de la academia, mando ultima nueva version apara estar seguros que reciben la correcta.
